@@ -1,0 +1,41 @@
+{
+    "albums": [
+        {
+            "artist": "BTS",
+            "album_title": "Love Yourself: Tear",
+            "year": 2018,
+            "tracks": [
+                "Singularity",
+                "FAKE LOVE",
+                "The Truth Untold",
+                "Paradise",
+                "Love Maze"
+            ]
+        },
+        {
+            "artist": "Anirudh",
+            "album_title": "Master",
+            "year": 2021,
+            "tracks": [
+                "Quit Pannuda",
+                "Andha Kanna Paathaakaa",
+                "Vaanil Irul",
+                "Master the Blaster",
+                "Polakatum Para Para"
+            ]
+        },
+        {
+            "artist": "Taylor Swift",
+            "album_title": "1989",
+            "year": 2014,
+            "tracks": [
+                "Welcome to New York",
+                "Blank Space",
+                "Style",
+                "Out of the Woods",
+                "All You Had to Do Was Stay"
+            ]
+        }
+    ]
+}
+
